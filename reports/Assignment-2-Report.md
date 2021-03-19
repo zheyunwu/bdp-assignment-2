@@ -248,14 +248,36 @@ For the whole platform: ingested 14404813 bytes of file, 6543 rows of data in to
 
 ### 4. clientstreamingestapp decides to report the its processing rate, including average ingestion time, total ingestion data size, and number of messages to mysimbdp-streamingestmonitor within a pre-defined period of time. Design the report format and explain possible components, flows and the mechanism for reporting
 
-In my design, **clientstreamingestapp** is only invoked when **mysimbdp-streamingestmanager** receives message from MQ, while **mysimbdp-streamingestmanager** is running in the background and directly consumes MQ, so the reporting functionality can be added to the **mysimbdp-streamingestmanager**. First, when **mysimbdp-streamingestmanager** receives a message, row size can be calculated from message body. Then it invokes a **clientstreamingestapp** to perform the ingestion. We know **clientstreamingestapp** actually use my "library API" to perform the ingestion, from which it will receives a report of ingestion situation, including start_time, end_time, successful or failed. So now we only require **clientstreamingestapp** to send those reports back to **mysimbdp-streamingestmanager**.
-
-Log format will be like following, in csv file:
+In my design, **clientstreamingestapp** is only invoked when **mysimbdp-streamingestmanager** receives message from MQ, while **mysimbdp-streamingestmanager** is running in the background and directly consumes MQ, so the reporting functionality can be added to the **mysimbdp-streamingestmanager**. First, when **mysimbdp-streamingestmanager** receives a message, row size can be calculated from message body. Then it invokes a **clientstreamingestapp** to perform the ingestion. We know **clientstreamingestapp** actually use my "library/SDK" to perform the ingestion, from which it will receives reports of ingestion result, including start_time, end_time, successful or failed. So now we only require **clientstreamingestapp** to send those reports back to **mysimbdp-streamingestmanager**, **mysimbdp-streamingestmanager** can have log info like following:
 
 ```tenant_id, message_body_size, start_time, end_time, status```
 
-Thus, we can calculate processing rate, total ingestion data size and number of messages from logs.
+Finally **mysimbdp-streamingestmanager** reports this info to component **mysimbdp-streamingestmonitor**, after which **mysimbdp-streamingestmonitor** can calculate processing rate, total ingestion data size and number of messages.
 
 ### 5. Implement the feature in mysimbdp-streamingestmonitor to receive the report from clientstreamingestapp. Based on the report from clientstreamingestapp and the tenant profile, when the performance is below a threshold, e.g., average ingestion time is too low, or too many messages have to be processed, mysimbdp-streamingestmonitor decides to inform mysimbdp-streamingestmanager about the situation (e.g., mysimbdp-streamingestmanager may create more instances of clientstreamingestapp for the tenant or remove existing instances). Implementation the integration between mysimbdpstreamingestmonitor and mysimbdp-streamingestmanager
 
 ## Part 3 - Integration and Extension
+
+### 1. Produce an integrated architecture for the logging and monitoring of both batch and near-realtime ingestion features (Part 1, Point 5 and Part 2, Points 4-5) so that you as a platform provider could know the amount of data ingested and existing errors/performance for individual tenants
+
+In my design, batch and stream ingestion output log to two separate table because their operation difference. 
+
+For stream ingestion, we have already integrated **mysimbdp-streamingestmonitor** with **mysimbdp-streamingestmanager** in Part 2, Point 5, now we need to integrate **mysimbdp-batchingestmanager** with **mysimbdp-streamingestmonitor**, the log table schema is:
+
+```tenant_id, file_size, columns, rows, start_time, end_time, status```
+
+### 2. In the stream ingestion pipeline, assume that your tenant has to ingest the same data but to different sinks, e.g., mybdpcoredms for storage and a new mybdp-streamdataprocessing component, what features/solutions you can provide and recommend to your tenants?
+
+I can provide variety of connectors to connect to various services such as data storage, calculation and analysis on the cloud, realizing the free flow of customers' data, customers just need to make some simple configuration.
+
+### 3. The tenant wants to protect the data during the ingestion using some encryption mechanisms, e.g., clientbatchingestapp and clientstreamingestapp have to deal with encrypted data. Which features/solutions you recommend the tenants and which services you might support them for this goal?
+
+HTTPS encrypted transmission throughout data ingestion. Also I can add some encryption features into my "library/SDK" that customers use to perform the ingestion.
+
+### 4. In the case of batch ingestion, we want to (i) detect the quality of data to allow ingestion only for data with a pre-defined quality of data condition and (ii) store metadata, including detected quality, into the platform, how you, as a platform provider, and your tenants can work together?
+
+I as a platform provider should discuss with tenants about the standard of qualified data, and through what forms they would like to control different quality levels. If the model customers have to follow has to be changed in some ways, I also need to discuss with customers about the change should be made in their batchingestapps.
+
+### 5. If a tenant has multiple clientbatchingestapp and clientstreamingestapp, each is suitable for a type of data and has different workloads (e.g., different CPUs, memory consumption and execution time), how would you extend your design and implementation in Parts 1 & 2 (only explain the concept/design) to support this requirement?
+
+For now each every tenant has only one clientbatchingestapp and clientstreamingestapp, to extend it for different type of data, I would create a sub directory under both of them representing different categories, meanwhile, client-staging-input-directory needs to be restructured to support different type of files, and RabbitMQ can use *topic* exchange to match types instead of *direct* exchange to achieve it.
