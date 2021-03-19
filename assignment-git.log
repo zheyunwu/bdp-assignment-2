@@ -1,2 +1,29 @@
-the content of this file should be the output of the log of your own git project for this assignment
-using git log command to export your git log
+commit 0e3ffee7d48bedf35f823a98134d6bf640d9ee72
+Author: Criss <wuzheyun@gmail.com>
+Date:   Fri Mar 19 04:27:58 2021 +0200
+
+    modification
+
+commit 61420966d1fefedafbbebde1d156599aedad2a52
+Author: Criss <wuzheyun@gmail.com>
+Date:   Fri Mar 19 04:24:12 2021 +0200
+
+    modification
+
+commit 2f266122e2076c7451ec640def1b88d7e27bf802
+Author: Criss <wuzheyun@gmail.com>
+Date:   Fri Mar 19 04:21:53 2021 +0200
+
+    added part 3
+
+commit cbadb8daa495ca833583e8b7a1cd29ce076774af
+Author: Criss <wuzheyun@gmail.com>
+Date:   Fri Mar 19 03:01:51 2021 +0200
+
+    added test dataset (only remains about 100 rows of sample, full file is too large)
+
+commit e69599b58b57c3d14019981645c9574609259b83
+Author: Criss <wuzheyun@gmail.com>
+Date:   Fri Mar 19 02:58:00 2021 +0200
+
+    part 1 & part 2
