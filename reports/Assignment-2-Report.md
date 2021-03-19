@@ -272,7 +272,7 @@ I can provide variety of connectors to connect to various services such as data 
 
 ### 3. The tenant wants to protect the data during the ingestion using some encryption mechanisms, e.g., clientbatchingestapp and clientstreamingestapp have to deal with encrypted data. Which features/solutions you recommend the tenants and which services you might support them for this goal?
 
-HTTPS encrypted transmission throughout data ingestion. Also I can add some encryption features into my "library/SDK" that customers use to perform the ingestion.
+HTTPS encrypted transmission throughout data ingestion process. Also I can add some encryption features into my "library/SDK" that customers use to perform the ingestion.
 
 ### 4. In the case of batch ingestion, we want to (i) detect the quality of data to allow ingestion only for data with a pre-defined quality of data condition and (ii) store metadata, including detected quality, into the platform, how you, as a platform provider, and your tenants can work together?
 
