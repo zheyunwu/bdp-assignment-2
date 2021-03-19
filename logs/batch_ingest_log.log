@@ -1,0 +1,4 @@
+INFO:root:[Ingestion started] start_time=2021/03/18 01:30:03, tenant_id=customer_1, file_name=listings_test.csv, table_name=listings
+INFO:root:[Ingestion finished] status=success, tenant_id=customer_1, file_name=listings_test.csv, file_size_bytes=13720857, table_name=listings, ingestion_rows=5054, start_time=2021/03/18 01:30:03, end_time=2021/03/18 01:48:18, total_time_cost=1095 seconds
+INFO:root:[Ingestion started] start_time=2021/03/18 01:53:03, tenant_id=customer_2, file_name=reviews_test.csv, table_name=reviews
+INFO:root:[Ingestion finished] status=success, tenant_id=customer_2, file_name=reviews_test.csv, file_size_bytes=683956, table_name=reviews, ingestion_rows=1489, start_time=2021/03/18 01:53:03, end_time=2021/03/18 01:58:00, total_time_cost=297 seconds

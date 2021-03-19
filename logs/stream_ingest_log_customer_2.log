@@ -1,0 +1,386 @@
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:26, end_time=2021/03/19 01:51:27, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:27, end_time=2021/03/19 01:51:27, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:27, end_time=2021/03/19 01:51:28, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:28, end_time=2021/03/19 01:51:34, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:34, end_time=2021/03/19 01:51:34, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:34, end_time=2021/03/19 01:51:35, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:35, end_time=2021/03/19 01:51:40, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:40, end_time=2021/03/19 01:51:46, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:46, end_time=2021/03/19 01:51:46, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:47, end_time=2021/03/19 01:51:52, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:52, end_time=2021/03/19 01:51:58, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:58, end_time=2021/03/19 01:51:58, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:51:58, end_time=2021/03/19 01:52:04, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:04, end_time=2021/03/19 01:52:04, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:04, end_time=2021/03/19 01:52:05, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:05, end_time=2021/03/19 01:52:11, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:11, end_time=2021/03/19 01:52:16, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:16, end_time=2021/03/19 01:52:22, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:22, end_time=2021/03/19 01:52:22, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:22, end_time=2021/03/19 01:52:23, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:23, end_time=2021/03/19 01:52:23, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:23, end_time=2021/03/19 01:52:24, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:24, end_time=2021/03/19 01:52:25, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:25, end_time=2021/03/19 01:52:25, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:25, end_time=2021/03/19 01:52:26, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:26, end_time=2021/03/19 01:52:27, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:27, end_time=2021/03/19 01:52:32, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:32, end_time=2021/03/19 01:52:33, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:33, end_time=2021/03/19 01:52:38, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:38, end_time=2021/03/19 01:52:39, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:39, end_time=2021/03/19 01:52:44, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:44, end_time=2021/03/19 01:52:50, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:50, end_time=2021/03/19 01:52:51, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:51, end_time=2021/03/19 01:52:51, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:51, end_time=2021/03/19 01:52:52, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:52, end_time=2021/03/19 01:52:57, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:52:57, end_time=2021/03/19 01:53:03, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:03, end_time=2021/03/19 01:53:08, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:08, end_time=2021/03/19 01:53:14, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:14, end_time=2021/03/19 01:53:20, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:20, end_time=2021/03/19 01:53:21, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:21, end_time=2021/03/19 01:53:26, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:26, end_time=2021/03/19 01:53:27, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:27, end_time=2021/03/19 01:53:32, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:32, end_time=2021/03/19 01:53:33, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:33, end_time=2021/03/19 01:53:39, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:39, end_time=2021/03/19 01:53:44, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:44, end_time=2021/03/19 01:53:46, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:46, end_time=2021/03/19 01:53:48, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:48, end_time=2021/03/19 01:53:55, total_time_cost=7 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:53:55, end_time=2021/03/19 01:54:01, total_time_cost=6 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:01, end_time=2021/03/19 01:54:07, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:07, end_time=2021/03/19 01:54:13, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:13, end_time=2021/03/19 01:54:18, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:18, end_time=2021/03/19 01:54:24, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:24, end_time=2021/03/19 01:54:24, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:24, end_time=2021/03/19 01:54:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:30, end_time=2021/03/19 01:54:30, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:30, end_time=2021/03/19 01:54:36, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:36, end_time=2021/03/19 01:54:42, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:42, end_time=2021/03/19 01:54:47, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:47, end_time=2021/03/19 01:54:48, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:48, end_time=2021/03/19 01:54:48, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:48, end_time=2021/03/19 01:54:49, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:49, end_time=2021/03/19 01:54:50, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:50, end_time=2021/03/19 01:54:55, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:55, end_time=2021/03/19 01:54:56, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:54:56, end_time=2021/03/19 01:55:01, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:01, end_time=2021/03/19 01:55:07, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:07, end_time=2021/03/19 01:55:07, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:07, end_time=2021/03/19 01:55:13, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:13, end_time=2021/03/19 01:55:14, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:14, end_time=2021/03/19 01:55:15, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:15, end_time=2021/03/19 01:55:16, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:16, end_time=2021/03/19 01:55:22, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:22, end_time=2021/03/19 01:55:23, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:23, end_time=2021/03/19 01:55:28, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:28, end_time=2021/03/19 01:55:29, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:29, end_time=2021/03/19 01:55:30, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:30, end_time=2021/03/19 01:55:35, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:35, end_time=2021/03/19 01:55:36, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:36, end_time=2021/03/19 01:55:42, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:42, end_time=2021/03/19 01:55:47, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:47, end_time=2021/03/19 01:55:48, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:48, end_time=2021/03/19 01:55:53, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:53, end_time=2021/03/19 01:55:59, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:55:59, end_time=2021/03/19 01:56:00, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:00, end_time=2021/03/19 01:56:05, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:05, end_time=2021/03/19 01:56:06, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:06, end_time=2021/03/19 01:56:06, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:06, end_time=2021/03/19 01:56:07, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:07, end_time=2021/03/19 01:56:13, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:13, end_time=2021/03/19 01:56:13, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:13, end_time=2021/03/19 01:56:19, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:19, end_time=2021/03/19 01:56:24, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:24, end_time=2021/03/19 01:56:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:30, end_time=2021/03/19 01:56:31, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:31, end_time=2021/03/19 01:56:36, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:36, end_time=2021/03/19 01:56:42, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:42, end_time=2021/03/19 01:56:47, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:47, end_time=2021/03/19 01:56:48, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:48, end_time=2021/03/19 01:56:49, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:49, end_time=2021/03/19 01:56:54, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:54, end_time=2021/03/19 01:56:55, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:55, end_time=2021/03/19 01:56:56, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:56, end_time=2021/03/19 01:56:56, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:56:56, end_time=2021/03/19 01:57:02, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:02, end_time=2021/03/19 01:57:08, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:08, end_time=2021/03/19 01:57:13, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:13, end_time=2021/03/19 01:57:19, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:19, end_time=2021/03/19 01:57:25, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:25, end_time=2021/03/19 01:57:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:30, end_time=2021/03/19 01:57:31, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:31, end_time=2021/03/19 01:57:31, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:31, end_time=2021/03/19 01:57:37, total_time_cost=6 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:37, end_time=2021/03/19 01:57:39, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:39, end_time=2021/03/19 01:57:39, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:39, end_time=2021/03/19 01:57:40, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:40, end_time=2021/03/19 01:57:40, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:40, end_time=2021/03/19 01:57:41, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:41, end_time=2021/03/19 01:57:42, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:42, end_time=2021/03/19 01:57:47, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:47, end_time=2021/03/19 01:57:48, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:48, end_time=2021/03/19 01:57:49, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:49, end_time=2021/03/19 01:57:54, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:54, end_time=2021/03/19 01:57:55, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:55, end_time=2021/03/19 01:57:56, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:57:56, end_time=2021/03/19 01:58:01, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:01, end_time=2021/03/19 01:58:07, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:07, end_time=2021/03/19 01:58:07, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:07, end_time=2021/03/19 01:58:13, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:13, end_time=2021/03/19 01:58:19, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:19, end_time=2021/03/19 01:58:19, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:19, end_time=2021/03/19 01:58:25, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:25, end_time=2021/03/19 01:58:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:30, end_time=2021/03/19 01:58:36, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:36, end_time=2021/03/19 01:58:36, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:36, end_time=2021/03/19 01:58:37, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:37, end_time=2021/03/19 01:58:43, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:43, end_time=2021/03/19 01:58:43, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:43, end_time=2021/03/19 01:58:49, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:49, end_time=2021/03/19 01:58:50, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:50, end_time=2021/03/19 01:58:50, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:50, end_time=2021/03/19 01:58:56, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:56, end_time=2021/03/19 01:58:57, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:58:57, end_time=2021/03/19 01:59:02, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:02, end_time=2021/03/19 01:59:03, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:03, end_time=2021/03/19 01:59:09, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:09, end_time=2021/03/19 01:59:09, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:09, end_time=2021/03/19 01:59:10, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:10, end_time=2021/03/19 01:59:10, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:10, end_time=2021/03/19 01:59:11, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:11, end_time=2021/03/19 01:59:12, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:12, end_time=2021/03/19 01:59:13, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:13, end_time=2021/03/19 01:59:13, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:13, end_time=2021/03/19 01:59:19, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:19, end_time=2021/03/19 01:59:24, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:24, end_time=2021/03/19 01:59:25, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:25, end_time=2021/03/19 01:59:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:30, end_time=2021/03/19 01:59:36, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:36, end_time=2021/03/19 01:59:37, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:37, end_time=2021/03/19 01:59:42, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:42, end_time=2021/03/19 01:59:48, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:48, end_time=2021/03/19 01:59:53, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:53, end_time=2021/03/19 01:59:59, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 01:59:59, end_time=2021/03/19 02:00:04, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:04, end_time=2021/03/19 02:00:05, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:05, end_time=2021/03/19 02:00:06, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:06, end_time=2021/03/19 02:00:11, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:11, end_time=2021/03/19 02:00:17, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:17, end_time=2021/03/19 02:00:18, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:18, end_time=2021/03/19 02:00:23, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:23, end_time=2021/03/19 02:00:29, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:29, end_time=2021/03/19 02:00:29, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:29, end_time=2021/03/19 02:00:35, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:35, end_time=2021/03/19 02:00:40, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:40, end_time=2021/03/19 02:00:41, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:41, end_time=2021/03/19 02:00:47, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:47, end_time=2021/03/19 02:00:52, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:52, end_time=2021/03/19 02:00:58, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:00:58, end_time=2021/03/19 02:01:03, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:03, end_time=2021/03/19 02:01:04, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:04, end_time=2021/03/19 02:01:04, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:04, end_time=2021/03/19 02:01:10, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:10, end_time=2021/03/19 02:01:15, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:15, end_time=2021/03/19 02:01:16, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:16, end_time=2021/03/19 02:01:17, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:17, end_time=2021/03/19 02:01:23, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:23, end_time=2021/03/19 02:01:28, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:28, end_time=2021/03/19 02:01:29, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:29, end_time=2021/03/19 02:01:30, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:30, end_time=2021/03/19 02:01:35, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:35, end_time=2021/03/19 02:01:41, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:41, end_time=2021/03/19 02:01:46, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:46, end_time=2021/03/19 02:01:47, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:47, end_time=2021/03/19 02:01:48, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:48, end_time=2021/03/19 02:01:49, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:49, end_time=2021/03/19 02:01:54, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:01:54, end_time=2021/03/19 02:02:00, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:00, end_time=2021/03/19 02:02:05, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:05, end_time=2021/03/19 02:02:11, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:11, end_time=2021/03/19 02:02:12, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:12, end_time=2021/03/19 02:02:17, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:17, end_time=2021/03/19 02:02:18, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:18, end_time=2021/03/19 02:02:19, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:19, end_time=2021/03/19 02:02:24, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:24, end_time=2021/03/19 02:02:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:30, end_time=2021/03/19 02:02:30, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:30, end_time=2021/03/19 02:02:31, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:31, end_time=2021/03/19 02:02:37, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:37, end_time=2021/03/19 02:02:43, total_time_cost=6 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:43, end_time=2021/03/19 02:02:44, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:44, end_time=2021/03/19 02:02:49, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:49, end_time=2021/03/19 02:02:55, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:02:55, end_time=2021/03/19 02:03:00, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:00, end_time=2021/03/19 02:03:06, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:06, end_time=2021/03/19 02:03:07, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:07, end_time=2021/03/19 02:03:12, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:12, end_time=2021/03/19 02:03:13, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:13, end_time=2021/03/19 02:03:18, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:18, end_time=2021/03/19 02:03:24, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:24, end_time=2021/03/19 02:03:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:30, end_time=2021/03/19 02:03:30, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:30, end_time=2021/03/19 02:03:36, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:36, end_time=2021/03/19 02:03:36, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:36, end_time=2021/03/19 02:03:42, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:42, end_time=2021/03/19 02:03:43, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:43, end_time=2021/03/19 02:03:48, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:48, end_time=2021/03/19 02:03:49, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:49, end_time=2021/03/19 02:03:54, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:54, end_time=2021/03/19 02:03:55, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:03:55, end_time=2021/03/19 02:04:01, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:01, end_time=2021/03/19 02:04:06, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:06, end_time=2021/03/19 02:04:07, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:07, end_time=2021/03/19 02:04:12, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:12, end_time=2021/03/19 02:04:18, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:18, end_time=2021/03/19 02:04:23, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:23, end_time=2021/03/19 02:04:29, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:29, end_time=2021/03/19 02:04:34, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:34, end_time=2021/03/19 02:04:40, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:40, end_time=2021/03/19 02:04:41, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:41, end_time=2021/03/19 02:04:46, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:46, end_time=2021/03/19 02:04:52, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:52, end_time=2021/03/19 02:04:58, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:04:58, end_time=2021/03/19 02:05:03, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:03, end_time=2021/03/19 02:05:09, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:09, end_time=2021/03/19 02:05:09, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:09, end_time=2021/03/19 02:05:10, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:10, end_time=2021/03/19 02:05:11, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:11, end_time=2021/03/19 02:05:16, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:16, end_time=2021/03/19 02:05:22, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:22, end_time=2021/03/19 02:05:22, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:22, end_time=2021/03/19 02:05:23, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:23, end_time=2021/03/19 02:05:29, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:29, end_time=2021/03/19 02:05:29, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:29, end_time=2021/03/19 02:05:35, total_time_cost=6 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:35, end_time=2021/03/19 02:05:36, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:36, end_time=2021/03/19 02:05:37, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:37, end_time=2021/03/19 02:05:42, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:42, end_time=2021/03/19 02:05:48, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:48, end_time=2021/03/19 02:05:48, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:48, end_time=2021/03/19 02:05:54, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:54, end_time=2021/03/19 02:05:55, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:05:55, end_time=2021/03/19 02:06:01, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:01, end_time=2021/03/19 02:06:01, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:01, end_time=2021/03/19 02:06:07, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:07, end_time=2021/03/19 02:06:08, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:08, end_time=2021/03/19 02:06:13, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:13, end_time=2021/03/19 02:06:19, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:19, end_time=2021/03/19 02:06:19, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:19, end_time=2021/03/19 02:06:25, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:25, end_time=2021/03/19 02:06:25, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:25, end_time=2021/03/19 02:06:31, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:31, end_time=2021/03/19 02:06:32, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:32, end_time=2021/03/19 02:06:32, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:32, end_time=2021/03/19 02:06:38, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:38, end_time=2021/03/19 02:06:43, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:43, end_time=2021/03/19 02:06:44, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:44, end_time=2021/03/19 02:06:50, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:50, end_time=2021/03/19 02:06:50, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:50, end_time=2021/03/19 02:06:56, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:06:56, end_time=2021/03/19 02:07:01, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:01, end_time=2021/03/19 02:07:07, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:07, end_time=2021/03/19 02:07:12, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:12, end_time=2021/03/19 02:07:18, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:18, end_time=2021/03/19 02:07:19, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:19, end_time=2021/03/19 02:07:25, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:25, end_time=2021/03/19 02:07:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:30, end_time=2021/03/19 02:07:36, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:36, end_time=2021/03/19 02:07:38, total_time_cost=2 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:38, end_time=2021/03/19 02:07:39, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:39, end_time=2021/03/19 02:07:40, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:40, end_time=2021/03/19 02:07:40, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:40, end_time=2021/03/19 02:07:46, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:46, end_time=2021/03/19 02:07:46, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:46, end_time=2021/03/19 02:07:52, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:52, end_time=2021/03/19 02:07:53, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:53, end_time=2021/03/19 02:07:58, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:58, end_time=2021/03/19 02:07:59, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:59, end_time=2021/03/19 02:07:59, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:07:59, end_time=2021/03/19 02:08:05, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:05, end_time=2021/03/19 02:08:06, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:06, end_time=2021/03/19 02:08:07, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:07, end_time=2021/03/19 02:08:12, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:12, end_time=2021/03/19 02:08:13, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:13, end_time=2021/03/19 02:08:19, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:19, end_time=2021/03/19 02:08:24, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:24, end_time=2021/03/19 02:08:30, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:30, end_time=2021/03/19 02:08:30, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:30, end_time=2021/03/19 02:08:31, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:31, end_time=2021/03/19 02:08:32, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:32, end_time=2021/03/19 02:08:37, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:37, end_time=2021/03/19 02:08:43, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:43, end_time=2021/03/19 02:08:48, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:48, end_time=2021/03/19 02:08:54, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:54, end_time=2021/03/19 02:08:59, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:08:59, end_time=2021/03/19 02:09:00, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:00, end_time=2021/03/19 02:09:01, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:01, end_time=2021/03/19 02:09:06, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:06, end_time=2021/03/19 02:09:07, total_time_cost=1 seconds
+INFO:root:[Stream ingestion] status=failed, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:07, end_time=2021/03/19 02:09:10, total_time_cost=2 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:10, end_time=2021/03/19 02:09:16, total_time_cost=6 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:16, end_time=2021/03/19 02:09:22, total_time_cost=5 seconds
+ERROR:pika.adapters.utils.io_services_utils:_AsyncBaseTransport._consume() failed, aborting connection: error=ConnectionResetError(54, 'Connection reset by peer'); sock=<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.31.210', 65351)>; Caller's stack:
+Traceback (most recent call last):
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1047, in _on_socket_readable
+    self._consume()
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+ConnectionResetError: [Errno 54] Connection reset by peer
+Traceback (most recent call last):
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1047, in _on_socket_readable
+    self._consume()
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 791, in _consume
+    data = self._sigint_safe_recv(self._sock, self._MAX_RECV_BYTES)
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 846, in _sigint_safe_recv
+    return sock.recv(max_bytes)
+ConnectionResetError: [Errno 54] Connection reset by peer
+INFO:pika.adapters.utils.io_services_utils:_AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=ConnectionResetError(54, 'Connection reset by peer'); <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.31.210', 65351)>
+INFO:pika.adapters.utils.io_services_utils:Deactivating transport: state=1; <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.31.210', 65351)>
+ERROR:pika.adapters.base_connection:connection_lost: StreamLostError: ("Stream connection lost: ConnectionResetError(54, 'Connection reset by peer')",)
+INFO:pika.connection:AMQP stack terminated, failed to connect, or aborted: opened=True, error-arg=StreamLostError: ("Stream connection lost: ConnectionResetError(54, 'Connection reset by peer')",); pending-error=None
+INFO:pika.connection:Stack terminated due to StreamLostError: ("Stream connection lost: ConnectionResetError(54, 'Connection reset by peer')",)
+INFO:pika.adapters.utils.io_services_utils:Closing transport socket and unlinking: state=2; <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.31.210', 65351)>
+ERROR:pika.adapters.blocking_connection:Unexpected connection close detected: StreamLostError: ("Stream connection lost: ConnectionResetError(54, 'Connection reset by peer')",)
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:22, end_time=2021/03/19 02:09:27, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:27, end_time=2021/03/19 02:09:33, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:33, end_time=2021/03/19 02:09:38, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:38, end_time=2021/03/19 02:09:44, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:44, end_time=2021/03/19 02:09:49, total_time_cost=5 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:49, end_time=2021/03/19 02:09:50, total_time_cost=0 seconds
+INFO:root:[Stream ingestion] status=success, tenant_id=customer_2, table_name=reviews, start_time=2021/03/19 02:09:50, end_time=2021/03/19 02:09:56, total_time_cost=5 seconds
+ERROR:pika.adapters.utils.io_services_utils:_AsyncBaseTransport._produce() failed, aborting connection: error=BrokenPipeError(32, 'Broken pipe'); sock=<socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.31.210', 65352)>; Caller's stack:
+Traceback (most recent call last):
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1103, in _on_socket_writable
+    self._produce()
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 819, in _produce
+    num_bytes_sent = self._sigint_safe_send(self._sock,
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 861, in _sigint_safe_send
+    return sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 1103, in _on_socket_writable
+    self._produce()
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 819, in _produce
+    num_bytes_sent = self._sigint_safe_send(self._sock,
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 79, in retry_sigint_wrap
+    return func(*args, **kwargs)
+  File "/Users/crisswzy/Workspace/aalto/bdp/assignment-2-915014/venv/lib/python3.9/site-packages/pika/adapters/utils/io_services_utils.py", line 861, in _sigint_safe_send
+    return sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+INFO:pika.adapters.utils.io_services_utils:_AsyncTransportBase._initate_abort(): Initiating abrupt asynchronous transport shutdown: state=1; error=BrokenPipeError(32, 'Broken pipe'); <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.31.210', 65352)>
+INFO:pika.adapters.utils.io_services_utils:Deactivating transport: state=1; <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.31.210', 65352)>
+ERROR:pika.adapters.base_connection:connection_lost: StreamLostError: ("Stream connection lost: BrokenPipeError(32, 'Broken pipe')",)
+INFO:pika.connection:AMQP stack terminated, failed to connect, or aborted: opened=True, error-arg=StreamLostError: ("Stream connection lost: BrokenPipeError(32, 'Broken pipe')",); pending-error=None
+INFO:pika.connection:Stack terminated due to StreamLostError: ("Stream connection lost: BrokenPipeError(32, 'Broken pipe')",)
+INFO:pika.adapters.utils.io_services_utils:Closing transport socket and unlinking: state=2; <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.31.210', 65352)>
+ERROR:pika.adapters.blocking_connection:Unexpected connection close detected: StreamLostError: ("Stream connection lost: BrokenPipeError(32, 'Broken pipe')",)
